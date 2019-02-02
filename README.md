@@ -35,7 +35,7 @@
 ### Contributors
 * Xiangjie Wu
 * Songhuan Huang
-* Qiao Gao
+* Wentao Sun
 * Ruige Lee
 
 ---------------------------------------------------------------
@@ -45,6 +45,7 @@
 * 采用霍尔传感器，需要在车轮上贴一个磁铁标记起始位置
 * 每次检测到磁铁后，开始刷图案
 
+* [申请了实用新型专利](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201620157427.7)
 
 ### Contributors
 * Pu Liu
@@ -57,6 +58,7 @@
 ## 视频
 * 请参考作品视频链接，视频看起来不那么鲜艳
 * [风火轮原型版本](https://v.qq.com/x/page/k0127j38gix.html?)
+* [风火轮比赛版本](https://v.youku.com/v_show/id_XMzc3ODE3ODQxNg==.html?spm=a2hzp.8244740.0.0)
 * [真彩点阵](http://v.youku.com/v_show/id_XMzc3ODE3NDk5Mg==.html?spm=a2h3j.8428770.3416059.1)
 
 
