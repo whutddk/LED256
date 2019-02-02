@@ -24,11 +24,17 @@
     - 刷图大致流程
         >
         > for (imageCnt = 0 ;imageCnt < ? ;imageCnt ++):
+        > 
         >       for (imageDelayCnt = 0;imageDelayCnt < ? ; imageDelayCnt ++ ):
+        >       
         >           for ( lightCnt = 0 ; lightCnt < 64; lightCnt ++ ):   
+        >           
         >               decoder select (lightCnt)
+        >               
         >               DAC set color (red,green,blue)
+        >               
         >               __nop__(3);
+        >               
         >               DAC set color (0,0,0)
         >           
 
@@ -53,6 +59,12 @@
 * Ruige Lee
 
 ## 图片
+* ![风火轮原型](https://github.com/whutddk/LED256/blob/master/pic/微信图片_2019013121595610.jpg)
+*　![风火轮成品](https://github.com/whutddk/LED256/blob/master/pic/IMG_20140502_124040.jpg)
+*　![风火轮效果](https://github.com/whutddk/LED256/blob/master/pic/IMG_20140207_230420_SHOT2SHOT20.jpg)
+*　![真彩点阵原型](https://github.com/whutddk/LED256/blob/master/pic/微信图片_2019013121595616.jpg)
+*　![真彩点阵成品](https://github.com/whutddk/LED256/blob/master/pic/微信图片_2019013121595619.jpg)
+*　![真彩点阵效果](https://github.com/whutddk/LED256/blob/master/pic/2014_10_11_22_08_57.jpg)
 
 
 ## 视频
