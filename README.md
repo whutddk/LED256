@@ -22,20 +22,21 @@
             * 刷新颜色，消隐
             * 保持图片，换图
     - 刷图大致流程
-        > for (imageCnt = 0 ;imageCnt < ? ;imageCnt ++):
-        > 
-        >       for (imageDelayCnt = 0;imageDelayCnt < ? ; imageDelayCnt ++ ):
-        >       
-        >           for ( lightCnt = 0 ; lightCnt < 64; lightCnt ++ ):   
-        >           
-        >               decoder select (lightCnt)
-        >               
-        >               DAC set color (red,green,blue)
-        >               
-        >               __nop__(3);
-        >               
-        >               DAC set color (0,0,0)
-        >           
+    ```
+         for (imageCnt = 0 ;imageCnt < ? ;imageCnt ++):
+         
+               for (imageDelayCnt = 0;imageDelayCnt < ? ; imageDelayCnt ++ ):
+               
+                   for ( lightCnt = 0 ; lightCnt < 64; lightCnt ++ ):   
+                   
+                       decoder select (lightCnt)
+                       
+                       DAC set color (red,green,blue)
+                       
+                       __nop__(3);
+                       
+                       DAC set color (0,0,0)
+```     
 
 ### Contributors
 * Xiangjie Wu
